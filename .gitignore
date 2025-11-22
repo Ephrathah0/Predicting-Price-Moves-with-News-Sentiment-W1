@@ -1,0 +1,8 @@
+.vscode/
+venv/
+env/
+.ipynb_checkpoints/
+data/
+*.csv 
+.csv
+pipip install yfinance
